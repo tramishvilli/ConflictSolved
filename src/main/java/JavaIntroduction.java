@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class JavaIntroduction {
 
     public static void main(String[] args) {
         int additionResult1 = add(1,2);
